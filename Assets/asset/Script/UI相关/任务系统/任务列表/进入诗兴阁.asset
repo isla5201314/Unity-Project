@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 865d7d9ce21385242a52b3ce72be35dc, type: 3}
+  m_Name: "\u8FDB\u5165\u8BD7\u5174\u9601"
+  m_EditorClassIdentifier: 
+  TaskID: 4
+  Name: "\u8FDB\u5165\u8BD7\u5174\u9601"
+  Description: "\u505A\u8DB3\u51C6\u5907\uFF0C\u8FDB\u5165\u8BD7\u5174\u9601"
+  SkillDescription: "\u6839\u636E\u4FE1\u4E0A\u4EE5\u53CA\u5E74\u8F7B\u4EBA\u7684\u63CF\u8FF0\uFF0C\u8BD7\u5174\u9601\u662F\u8FD9\u91CC\u5F88\u91CD\u8981\u7684\u5730\u65B9\uFF0C\u53BB\u57CE\u4E2D\u591A\u901B\u4E00\u901B\u505A\u8DB3\u51C6\u5907\u540E\u8FDB\u5165\u8BD7\u5174\u9601"
+  IsFinish: 0
